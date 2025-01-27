@@ -1,0 +1,4 @@
+.detail-section-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
